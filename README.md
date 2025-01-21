@@ -1,3 +1,9 @@
+<a href="http://www.kios.ucy.ac.cy"><img src="https://www.kios.ucy.ac.cy/wp-content/uploads/2021/07/Logotype-KIOS.svg" width="200" height="100"/><a>
+
+[![DOI](https://img.shields.io/badge/Paper-Nature%20Scientific%20Reports-blue?style=flat&logo=nature&logoColor=white)](https://www.nature.com/articles/s41598-022-09857-8)  
+[![Dataset](https://img.shields.io/badge/Dataset-Zenodo-black?style=flat&logo=zenodo&logoColor=white)](https://zenodo.org/records/4433506)  
+[![Code](https://img.shields.io/badge/Code-CodeOcean-orange?style=flat&logo=codeforces&logoColor=white)](https://codeocean.com/capsule/9137604)
+
 # OptInCoV19
 
 Repository for 'Optimal intervention strategies to mitigate the COVID-19 pandemic effects'
